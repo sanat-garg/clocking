@@ -10,6 +10,7 @@ This web application displays a simple message indicating success along with a s
 ## Features and Functionality
 - Displays a success message.
 - Shows a smiley face using keyboard symbols.
+- Displays today's date below the success message.
 
 ## Special Instructions or Requirements
 - Ensure you have a modern web browser to view the application properly.
